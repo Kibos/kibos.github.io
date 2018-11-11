@@ -6,9 +6,28 @@
     <description>Recent content on Kibos的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
+    <lastBuildDate>Sat, 10 Nov 2018 00:21:59 +0800</lastBuildDate>
     
 	<atom:link href="https://kibos.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>https://kibos.github.io/post/first/</link>
+      <pubDate>Sat, 10 Nov 2018 00:21:59 +0800</pubDate>
+      
+      <guid>https://kibos.github.io/post/first/</guid>
+      <description>Hello World 1. 第一篇文章 2. So far, the best idea I&#39;ve heard about building grit in kids is something called &amp;quot;growth mindset.&amp;quot; This is an idea developed at Stanford University by Carol Dweck, and it is the belief that the ability to learn is not fixed, that it can change with your effort. Dr. Dweck has shown that when kids read and learn about the brain and how it changes and grows in response to challenge, they&#39;re much more likely to persevere when they fail, because they don&#39;t believe that failure is a permanent condition.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://kibos.github.io/about/</link>
+      <pubDate>Sat, 10 Nov 2018 00:19:19 +0800</pubDate>
+      
+      <guid>https://kibos.github.io/about/</guid>
+      <description>&amp;ldquo;我从小到大没什么梦想，一直在路上不问远方，只是衷心希望自己成为一个很厉害的人，你问我什么算厉害，大概就是能有朝一日，保护好爱人，对得起朋友，赡养好家人吧。&amp;rdquo;</description>
+    </item>
     
     <item>
       <title></title>
